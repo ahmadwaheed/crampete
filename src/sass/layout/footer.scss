@@ -1,0 +1,40 @@
+footer {
+    background: #404f54;
+    padding: 2rem 0;
+    ol,
+    li {
+        padding: 0;
+        list-style: none;
+        a {
+            color: #768588;
+            margin: 0 1.5rem;
+            text-decoration: none;
+            font-weight: 400;
+        }
+    }
+    .footer_main_menu {
+        width: 100%;
+        text-align: center;
+        ol {
+            margin: 1rem auto;
+            li {
+                display: inline-block;
+            }
+        }
+    }
+    .footer_sub_menu {
+        width: 100%;
+        text-align: center;
+        ol {
+            margin: 1rem auto;
+            li {
+                display: inline-block;
+            }
+        }
+    }
+    p {
+        color: #768588;
+        margin: 0 1.5rem;
+        font-weight: 400;
+    }
+}
